@@ -7,7 +7,7 @@ ini_set('display_errors', 1);
 $host = 'localhost';
 $dbname = 'profilledb';
 $username = 'root';
-$password = '5726';
+$password = '';
 
 // Handle file upload via POST request
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
